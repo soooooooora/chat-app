@@ -52,7 +52,7 @@
   background-color: #ffffff;
 }
 
-.top-chat{
+.chat-header{
   height: 100px;
   padding: 0 40px;
   display: flex;
@@ -76,14 +76,14 @@
   padding: 20px;
 }
 
-.center-chat{
+.messages{
   height: calc(100vh - 100px - 90px);
   background-color: #fafafa;
   padding: 46px 40px 0;
   overflow: scroll;
 }
 
-.message {
+.message{
   margin: 10px 0 0 0;
 }
 
@@ -112,7 +112,7 @@
   margin-bottom: 40px;
 }
 
-.bottom-chat{
+.form{
   height: 90px;
   background-color: #dddddd;
   padding: 20px 40px;
