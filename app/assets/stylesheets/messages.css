@@ -83,7 +83,7 @@
   overflow: scroll;
 }
 
-.message {
+.messages{
   margin: 10px 0 0 0;
 }
 
@@ -112,7 +112,7 @@
   margin-bottom: 40px;
 }
 
-.bottom-chat{
+.form{
   height: 90px;
   background-color: #dddddd;
   padding: 20px 40px;
